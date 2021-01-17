@@ -35,7 +35,7 @@ I'm passionate about tech, I am Interested in UX/UI, Front-end, design and innov
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=morganfula&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morganfula)](https://github.com/anuraghazra/github-readme-stats&theme=nightowl))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morganfula)](https://github.com/anuraghazra/github-readme-stats&theme=nightowl)]
 
 
 <img align="right" width="250" src="https://res.cloudinary.com/dq6galuyc/image/upload/v1610891701/memoji_hi_laptop_nx9xvz.png">
