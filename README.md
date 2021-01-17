@@ -23,7 +23,7 @@ I'm passionate about tech, I am Interested in UX/UI, Front-end, design and innov
 <img src="https://www.netlify.com/img/press/logos/logomark.png" width="48"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" width="100"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48"/>
-<img src="https://media.slid.es/uploads/327261/images/5065937/pm-logo-vert.png" width="48"/>
+<img src="https://media.slid.es/uploads/327261/images/5065937/pm-logo-vert.png" width="60"/>
 </div>
 <br/>
 <br/>
