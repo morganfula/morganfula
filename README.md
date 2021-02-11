@@ -6,7 +6,7 @@ I'm passionate about tech, I am Interested in UX/UI, Front-end, design and innov
 
 ## Tech Stacks
 <div style="text-align:center">
-<img src="https://www.flaticon.com/svg/vstatic/svg/732/732212.svg?token=exp=1610890784~hmac=5569b8aa37df80c8b3005d9f6a6c9b64" width="48"/>
+<img src="https://fr.wikipedia.org/wiki/HTML5#/media/Fichier:HTML5_logo_and_wordmark.svg" width="48"/>
 <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1610891025~hmac=28eb1534d80a789aa5befbd30e8526a3" width="48"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48"/>
 <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width="48"/>
