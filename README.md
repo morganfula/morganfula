@@ -7,7 +7,7 @@ I'm passionate about tech, I am Interested in UX/UI, Front-end, design and innov
 ## Tech Stacks
 <div style="text-align:center">
 <img src="https://www.pngrepo.com/png/183637/512/html5.png" width="48"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ADevicon-css3-plain.svg&psig=AOvVaw08GQzUA4MRtMBan9Scig38&ust=1620811906149000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjPuoSpwfACFQAAAAAdAAAAABAD" width="48"/>
+<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/css3-logo.png" width="48"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48"/>
 <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width="48"/>
 <img src="https://img2.pngio.com/express-js-png-5-png-image-expressjs-png-800_800.png" width="48"/>
