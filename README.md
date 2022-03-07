@@ -14,7 +14,7 @@ I'm passionate about tech, I am Interested in UX/UI, Front-end, design and innov
 <img src="https://www.mbejda.com/content/images/2015/12/node.png" width="48"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="48"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" width="48"/>
-<img src="https://nuxtjs.org/logos/nuxt-icon.png" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" width="48"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" width="100"/>
 <img src="https://miro.medium.com/max/780/1*dqiYC6CSouYCwg3ESYsP2w.png" width="100"/>
 <img src="https://img.icons8.com/color/452/firebase.png" width="48"/>
