@@ -5,7 +5,7 @@ Hey You :wave:
 I'm passionate about tech, I am Interested in UX/UI, Front-end, design and innovations. As a lifelong learner, I am seeking out opportunities to grow personally and professionally. After 10 years working as a self-employed Sound engineer and more than 1500 live shows and recordings, I decided to reconvert as a web developer. Most recently, I completed Le Wagon Lausanne and I am excited to begin a career in Front End Web Development.
 
 ## Tech Stacks
-<div style="text-align:center">
+<div style="text-align:center; display:flex;">
 <img src="https://www.pngrepo.com/png/183637/512/html5.png" width="48"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_logo_icon_146573.png" width="48"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48"/>
