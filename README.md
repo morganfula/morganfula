@@ -30,7 +30,7 @@ I'm passionate about tech, I am Interested in UX/UI, Front-end, design and innov
 <br/>
 <br/>
 
-[LinkedIn](https://www.linkedin.com/in/morganfula/) • [Website](https://morganfula.com/) • [Twitter](https://twitter.com/Morgasmatron1) • [Facebook](https://www.instagram.com/morgasmatron) • [Instagram](https://www.instagram.com/morgasmatron/) • [Contact Me](contact@morgasmatron.com)
+[LinkedIn](https://www.linkedin.com/in/morganfula/) • [Website](https://morganfula.com/) • [Twitter](https://twitter.com/Morgasmatron1) • [Facebook](https://www.instagram.com/morgasmatron) • [Instagram](https://www.instagram.com/morgasmatron/) • [Contact Me](mailto:contact@morgasmatron.com)
   
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=morganfula&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
