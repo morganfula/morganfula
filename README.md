@@ -30,43 +30,20 @@ I'm a **creative web developer** and **UX/UI designer** with a strong background
 
 
 ## Tech Stacks
- <div style="display:grid; grid-template-columns: repeat(5, 1fr); gap: 24px;">
-    <img src="https://assets.codepen.io/5219064/ts-logo.png" alt="" height="60" />
-    <img src="https://assets.codepen.io/5219064/three-logo.png" alt="" height="60" />
-    <img src="https://assets.codepen.io/5219064/sass-logo.png" alt="" height="60" />
-    <img src="https://assets.codepen.io/5219064/nuxt-logo.png" alt="" height="60" />
-    <img src="https://assets.codepen.io/5219064/node-logo.png" alt="" height="60" />
-    <img src="https://assets.codepen.io/5219064/logo-vue.png" alt="" height="60" />
-    <img src="https://assets.codepen.io/5219064/js-logo.png" alt="" height="60" />
-    <img src="https://assets.codepen.io/5219064/html-logo.png" alt="" height="60" />
-    <img src="https://assets.codepen.io/5219064/glsl-logo.png" alt="" height="60" />
-    <img src="https://assets.codepen.io/5219064/css-logo.png" alt="" height="60" />
-  </div>
 
-<div style="text-align:center; display:flex;">
-<img src="https://www.pngrepo.com/png/183637/512/html5.png" width="48"/>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_logo_icon_146573.png" width="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48"/>
-<img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width="48"/>
-<img src="https://img2.pngio.com/express-js-png-5-png-image-expressjs-png-800_800.png" width="48"/>
-<img src="https://www.mbejda.com/content/images/2015/12/node.png" width="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" width="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" width="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" width="100"/>
-<img src="https://miro.medium.com/max/780/1*dqiYC6CSouYCwg3ESYsP2w.png" width="100"/>
-<img src="https://img.icons8.com/color/452/firebase.png" width="48"/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" width="48"/>
-<img src="https://pbs.twimg.com/profile_images/567000326444556290/-1wfGjNw_400x400.png" width="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width="48"/>
-<img src="https://www.netlify.com/img/press/logos/logomark.png" width="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" width="100"/>
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48"/>
-<img src="https://ingenuitysoftwarelabs.com/wp-content/uploads/2020/01/three-js-logo.png" width="48"/>
-<img src="https://media.slid.es/uploads/327261/images/5065937/pm-logo-vert.png" width="70"/>
-</div>
-<br/>
-<br/>
+      <div style="display:grid !important; grid-template-columns: repeat(5, 1fr) !important; gap: 24px !important;">
+        <img src="https://assets.codepen.io/5219064/ts-logo.png" alt="" height="60" />
+        <img src="https://assets.codepen.io/5219064/three-logo.png" alt="" height="60" />
+        <img src="https://assets.codepen.io/5219064/sass-logo.png" alt="" height="60" />
+        <img src="https://assets.codepen.io/5219064/nuxt-logo.png" alt="" height="60" />
+        <img src="https://assets.codepen.io/5219064/node-logo.png" alt="" height="60" />
+        <img src="https://assets.codepen.io/5219064/logo-vue.png" alt="" height="60" />
+        <img src="https://assets.codepen.io/5219064/js-logo.png" alt="" height="60" />
+        <img src="https://assets.codepen.io/5219064/html-logo.png" alt="" height="60" />
+        <img src="https://assets.codepen.io/5219064/glsl-logo.png" alt="" height="60" />
+        <img src="https://assets.codepen.io/5219064/css-logo.png" alt="" height="60" />
+        </div>
+
 
 
 
