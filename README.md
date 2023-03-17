@@ -22,7 +22,7 @@ I'm a **creative web developer** and **UX/UI designer** with a strong background
 
 ## Connect with me
 
-- 🌐 Visit my [portfolio website](https://morgasmatron.com)
+- 🌐 Visit my [website](https://morgasmatron.com) (under construction)
 - 📧 Email me at [hello@morgasmatron.com](mailto:hello@morgasmatron.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/morganfula)
 - 📸 Follow me on [Instagram](https://www.instagram.com/morgasmatron)
