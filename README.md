@@ -31,7 +31,7 @@ I'm a **creative web developer** and **UX/UI designer** with a strong background
 
 ## Tech Stacks
 
-<div style="display:grid; grid-template-columns: repeat(5, 1fr); gap: 24px;">
+<div style="text-align: center;">
 <img src="https://assets.codepen.io/5219064/ts-logo.png" alt="" height="60" padding="12px 18px" />
 <img src="https://assets.codepen.io/5219064/three-logo.png" alt="" height="60" padding="12px 18px" />
 <img src="https://assets.codepen.io/5219064/sass-logo.png" alt="" height="60" padding="12px 18px" />
@@ -44,7 +44,8 @@ I'm a **creative web developer** and **UX/UI designer** with a strong background
 <img src="https://assets.codepen.io/5219064/css-logo.png" alt="" height="60" padding="12px 18px" />
 </div>
 
-
+<br> 
+<br>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=morganfula&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
