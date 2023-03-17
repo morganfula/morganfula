@@ -31,7 +31,7 @@ I'm a **creative web developer** and **UX/UI designer** with a strong background
 
 ## Tech Stacks
 
-      <div style="display:grid !important; grid-template-columns: repeat(5, 1fr) !important; gap: 24px !important;">
+      <div style="">
         <img src="https://assets.codepen.io/5219064/ts-logo.png" alt="" height="60" />
         <img src="https://assets.codepen.io/5219064/three-logo.png" alt="" height="60" />
         <img src="https://assets.codepen.io/5219064/sass-logo.png" alt="" height="60" />
