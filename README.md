@@ -15,7 +15,7 @@ I'm a **creative web developer** and **UX/UI designer** with a strong background
 ## Skills
 
 - Front-End Development: HTML, CSS, JavaScript, GLSL, Three.js, GSAP
-- UX/UI Design: Figma, Sketch, Adobe XD
+- UX/UI Design: Figma, Principle, Adobe Suite
 - Animation: 2D and 3D Animation, Motion Graphics
 - Teaching: Workshops, Courses, One-on-One Mentorship
 - Sound Engineering: Live Sound, Studio Sound, Audio Editing
@@ -24,8 +24,8 @@ I'm a **creative web developer** and **UX/UI designer** with a strong background
 
 - 🌐 Visit my [portfolio website](https://morgasmatron.com)
 - 📧 Email me at [hello@morgasmatron.com](mailto:hello@morgasmatron.com)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- 📸 Follow me on [Instagram](https://www.instagram.com/your-instagram-username)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/morganfula)
+- 📸 Follow me on [Instagram](https://www.instagram.com/morgasmatron)
 
 
 
@@ -55,10 +55,8 @@ I'm a **creative web developer** and **UX/UI designer** with a strong background
 <br/>
 <br/>
 
-[LinkedIn](https://www.linkedin.com/in/morganfula/) • [Website](https://morganfula.com/) • [Twitter](https://twitter.com/Morgasmatron1) • [Facebook](https://www.instagram.com/morgasmatron) • [Instagram](https://www.instagram.com/morgasmatron/) • [Contact Me](mailto:contact@morgasmatron.com)
-  
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=morganfula&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="right" width="250" src="https://res.cloudinary.com/dq6galuyc/image/upload/v1610891701/memoji_hi_laptop_nx9xvz.png">
