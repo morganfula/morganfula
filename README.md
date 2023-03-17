@@ -1,4 +1,4 @@
-# Hi, I'm Morgan "Morgasmatron" Fula! 👋
+# Hi, I'm Morgan "Morgasmatron" Fula! 👋🏾
 
 I'm a **creative web developer** and **UX/UI designer** with a strong background in sound engineering and a passion for teaching. With over 15 years of experience in the entertainment industry as a live and studio sound engineer, I've worked on countless shows, concerts, and events worldwide. The pandemic led me to discover my talent for front-end development and UX/UI design, and I've since embraced this new career path.
 
