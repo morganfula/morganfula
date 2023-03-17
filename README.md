@@ -30,18 +30,18 @@ I'm a **creative web developer** and **UX/UI designer** with a strong background
 
 
 ## Tech Stacks
-<div style="text-align:center; display:flex !important;">
-<img src="https://assets.codepen.io/5219064/ts-logo.png" alt="" width="48" />
-<img src="https://assets.codepen.io/5219064/three-logo.png" alt="" width="48" />
-<img src="https://assets.codepen.io/5219064/sass-logo.png" alt="" width="48" />
-<img src="https://assets.codepen.io/5219064/nuxt-logo.png" alt="" width="48" />
-<img src="https://assets.codepen.io/5219064/node-logo.png" alt="" width="48" />
-<img src="https://assets.codepen.io/5219064/logo-vue.png" alt="" width="48" />
-<img src="https://assets.codepen.io/5219064/js-logo.png" alt="" width="48" />
-<img src="https://assets.codepen.io/5219064/html-logo.png" alt="" width="48" />
-<img src="https://assets.codepen.io/5219064/glsl-logo.png" alt="" width="48" />
-<img src="https://assets.codepen.io/5219064/css-logo.png" alt="" width="48" />
-</div>
+ <div style="display:grid; grid-template-columns: repeat(5, 1fr); gap: 24px;">
+    <img src="https://assets.codepen.io/5219064/ts-logo.png" alt="" height="60" />
+    <img src="https://assets.codepen.io/5219064/three-logo.png" alt="" height="60" />
+    <img src="https://assets.codepen.io/5219064/sass-logo.png" alt="" height="60" />
+    <img src="https://assets.codepen.io/5219064/nuxt-logo.png" alt="" height="60" />
+    <img src="https://assets.codepen.io/5219064/node-logo.png" alt="" height="60" />
+    <img src="https://assets.codepen.io/5219064/logo-vue.png" alt="" height="60" />
+    <img src="https://assets.codepen.io/5219064/js-logo.png" alt="" height="60" />
+    <img src="https://assets.codepen.io/5219064/html-logo.png" alt="" height="60" />
+    <img src="https://assets.codepen.io/5219064/glsl-logo.png" alt="" height="60" />
+    <img src="https://assets.codepen.io/5219064/css-logo.png" alt="" height="60" />
+  </div>
 
 <div style="text-align:center; display:flex;">
 <img src="https://www.pngrepo.com/png/183637/512/html5.png" width="48"/>
