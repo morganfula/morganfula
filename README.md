@@ -30,7 +30,7 @@ I'm a **creative web developer** and **UX/UI designer** with a strong background
 
 
 ## Tech Stacks
-<div style="display:flex; justify-content:space-evenly;">
+<div style="text-align:center; display:flex !important;">
 <img src="https://assets.codepen.io/5219064/ts-logo.png" alt="" width="48" />
 <img src="https://assets.codepen.io/5219064/three-logo.png" alt="" width="48" />
 <img src="https://assets.codepen.io/5219064/sass-logo.png" alt="" width="48" />
