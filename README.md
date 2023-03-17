@@ -48,6 +48,6 @@ I'm a **creative web developer** and **UX/UI designer** with a strong background
 <br>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=morganfula&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=morganfula&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
