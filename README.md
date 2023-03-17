@@ -30,6 +30,9 @@ I'm a **creative web developer** and **UX/UI designer** with a strong background
 
 
 ## Tech Stacks
+
+<img src="https://assets.codepen.io/5219064/ts-logo.png" alt="" />
+
 <div style="text-align:center; display:flex;">
 <img src="https://www.pngrepo.com/png/183637/512/html5.png" width="48"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_logo_icon_146573.png" width="48"/>
